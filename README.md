@@ -26,7 +26,7 @@ A sample demo app that validates whether an uploaded document, such as a passpor
 
 4. Run the application
     ```
-    - streamlit run kyc-processor.py
+    streamlit run kyc-processor.py
     ```
 
 5. Upload your document (passport or driver's license) for validation and check the response.
