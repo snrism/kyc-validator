@@ -21,7 +21,7 @@ A sample demo app that validates whether an uploaded document, such as a passpor
    ```
 
 3. Set up your Anthropic API key:
-   - Sign up for an Anthropic account and obtain an API key
+   - Sign up (https://console.anthropic.com/settings/keys) for an Anthropic account and obtain an API key
    - Set the API key as an environment variable or update it in the script
 
 4. Run the application
