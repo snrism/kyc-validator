@@ -8,15 +8,6 @@ A sample demo app that validates whether an uploaded document, such as a passpor
 - Extracts key information such as name, date of birth, and document number.
 - Provides a basic legitimacy check for uploaded documents.
 
-## Requirements
-
-- Python 3.x
-- Install required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Installation
 
 1. Clone this repository:
